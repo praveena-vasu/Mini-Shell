@@ -4,7 +4,7 @@
 
 The Mini Shell is a command-line interpreter developed in C on Linux that mimics the basic functionality of the Linux Bash shell. It accepts user commands, parses them, and executes internal or external programs using Linux system calls. The shell supports features like command execution, process creation, background execution, command history, environment variables, signal handling, and built-in commands.
 
-🔷Features
+# 🔷Features
 - Interactive command prompt
   
 - Execute Linux commands (`ls`, `pwd`, `cat`, `mkdir`, etc.)
@@ -85,6 +85,7 @@ MiniShell$ history
 MiniShell$ xyz
 Command not found: xyz
 
-👩‍💻Author
+
+# 👩‍💻Author
 
 	Praveena
