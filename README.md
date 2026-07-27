@@ -60,7 +60,7 @@ The Mini Shell is a command-line interpreter developed in C on Linux that mimics
 
 ## 💻 Sample Output
 
-
+```text
 MiniShell$ pwd
 /home/user
 
@@ -84,7 +84,7 @@ MiniShell$ history
 
 MiniShell$ xyz
 Command not found: xyz
-
+```
 
 ## 👩‍💻Author
 Praveena
